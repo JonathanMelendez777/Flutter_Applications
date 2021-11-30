@@ -1,0 +1,22 @@
+[
+    {
+        "nombre":"Jonathan",
+        "apellido":"Melendez",
+        "telefono":7713917568
+    },
+    {
+        "nombre":"Lionel",
+        "apellido":"Messi",
+        "telefono":7711010101
+    },
+    {
+        "nombre":"Eren",
+        "apellido":"Zamitiz",
+        "telefono":7719952862
+    },
+    {
+        "nombre":"Mikasa",
+        "apellido":"Hernandez",
+        "telefono":7715986423
+    }
+]
